@@ -1,8 +1,8 @@
 ﻿AI Setting	AI设定
 Chatter	聊天
-Turned On/Off Computer Chatter.	开/关聊?
-Turned On/Off Debug Mode.	开/关侦?
-Turned On/Off Balancing Mode.	开/关平? ��
+Turned On/Off Computer Chatter.	开/关聊天
+Turned On/Off Debug Mode.	开/关侦察
+Turned On/Off Balancing Mode.	开/关平衡模式
 Show	显示信息
 Current Strategy	当前战术
 Showing current strategy.	显示当前战术
@@ -17,7 +17,7 @@ I have Canceled all Attack commands you have given me so far.	我已经取消布
 Build Orders	建设
 I have Canceled all Build commands you have given me so far.	我已经取消布置的全部建设命令
 Queue	命令队列
-I have Canceled all Queued commands you have given me so far.	我已经取消布置的全部下一步命?
+I have Canceled all Queued commands you have given me so far.	我已经取消布置的全部下一步命令
 I will Stop any current Attack.	我将停止当前的全部进?
 I will not Attack Anything.	我不会攻击任何目?
 I will not Attack Creeps.	我不会攻击中立生?
@@ -47,14 +47,14 @@ Towers	箭塔
 Current screen	当前地点
 Selected unit	选择单位
 Towerrush (Orc only)	塔RUA
-Start/Restart	开?重新开?
+Start/Restart	开始重新开始
 No Strategy Change	按计划行?
 Build	建?
 Attack Here	攻击
 Unpause	继续
 Undo	重做
 attack select	攻击选择
-Air vs. Air	空�?
-Air vs. Ground	空�?
-Ground vs. Air	地�?
-Ground vs. Ground	地�?
+Air vs. Air	空对空
+Air vs. Ground	空对地
+Ground vs. Air	地对空
+Ground vs. Ground	地对地
