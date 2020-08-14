@@ -1,5 +1,5 @@
-﻿Strategy Name in AI	Translated Strategy Name	Translated Strategy Report
-NormalElf	常�	我打算使用暗夜常规打?
+Strategy Name in AI	Translated Strategy Name	Translated Strategy Report
+NormalElf	常规	我打算使用暗夜常规打?
 MassH	猎手猛禽德鲁?	我打算暴猎手加少部分猛禽德鲁?
 Druids	猛禽德鲁依利爪德鲁依	我打算使用双德鲁依打?
 Hippo	角鹰骑士	我准备出角鹰骑士?
@@ -16,7 +16,7 @@ Knight	骑士	我准备出骑士配步兵了
 Rifle	火枪	我要暴火枪海?
 Mortars	迫击?	我要训练迫击炮小队了
 Copters	直升?	我要生产直升机大队了
-NormalOrc	常�	我打算使用常规打?
+NormalOrc	常规	我打算使用常规打?
 FastSh	撒蛮巫医	我要使用撒巫组合?
 Kodo	珂多?	我要暴珂多兽?
 WyvSh	撒蛮双足飞龙	我打算出撒蛮和双足飞?
@@ -35,7 +35,7 @@ Aboms	憎恶	我出胖子了啊
 MeatFiends	搅肉车蜘?	我打算出搅肉车和蜘蛛
 airair	空对?	我准备生产空对空单位?
 airground	空对?	我打算生产空对地单位?
-groundair	地对?	我打算生产地对空单位?
+groundair 地对?	我打算生产地对空单位?
 groundground	地对?	我打算生产地对地单位?
-farm	农场	我要建农场了
-guard	�	我要造箭塔了
+farm  农场	我要建农场了
+guard	 防卫	我要造箭塔了
