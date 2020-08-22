@@ -4,8 +4,8 @@
     //-----------------------------------------------------------------------
 
     // default values
-    string language = ""  // Possible values: "" (dialog), "English", "Deutsch", "Swedish", "French", "Spanish", "Romanian", "Chinese"
-    string game_mode = "" // Possible values: "" (dialog), "commander", "no_human", "ai_only"
+    string language = "Chinese"  // Possible values: "" (dialog), "English", "Deutsch", "Swedish", "French", "Spanish", "Romanian", "Chinese"
+    string game_mode = "ai_only" // Possible values: "" (dialog), "commander", "no_human", "ai_only"
 
     integer array command_number
     integer array command_par1
