@@ -2,4 +2,4 @@
 输入CMD:Help查看帮助信息
 敲击 ESC 打开命令对话筐?
 官方网站:http://www.wc3campaigns.net/amai
-由孙悟空汉化完成
+由孙悟空(keamspring)汉化完成
