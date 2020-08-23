@@ -250,8 +250,8 @@ globals
     real sleep_multiplier = 1  // increases performance by checking stuff not so often
     integer slm_start = 4  // how many computer players is needed tor the sleep multiplier to start increasing
     integer slm_end = 10 // how many computer players is needed tor the sleep multiplier to stop increasing
-    real slm_start_mult = 1 // how much is the sleep multiplied when it´s below the slm_start codition
-    real slm_end_mult = 2  // how much is the sleep multiplied when it´s above the slm_end codition
+    real slm_start_mult = 1 // how much is the sleep multiplied when itï¿½s below the slm_start codition
+    real slm_end_mult = 2  // how much is the sleep multiplied when itï¿½s above the slm_end codition
     real hero_radius = 200  // scanning this small area around hero to detect if the hero gets surrounded by enemy or is in danger of becoming that so it should move
     boolean use_linear_upkeep_saving = false  // should the computers save the upkeep threshold gold over the time above or save it all at once when it get's to the upkeep border?
     integer repair_threshold = 6  // computers only repair buildings if they have more than this many workers
@@ -2658,11 +2658,11 @@ function InitProfile takes nothing returns nothing
      set ai_name = "[AMAI]"+ai_name
   elseif add_tag == true and not fixedcomputername and add_skill then
      if MeleeDifficulty() == EASY then
-        set ai_name = "[AMAI Easy]"+ai_name
+        set ai_name = ai_name+"[Ks.AI C-]"
      elseif MeleeDifficulty() == HARD then
-        set ai_name = "[AMAI Insane]"+ai_name
+        set ai_name = ai_name+"[Ks.AI S]"
      else
-        set ai_name = "[AMAI Normal]"+ai_name
+        set ai_name = ai_name+"[Ks.AI A+]"
      endif
   elseif add_skill == true then
      if MeleeDifficulty() == EASY then
